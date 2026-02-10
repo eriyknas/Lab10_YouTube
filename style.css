@@ -292,3 +292,22 @@ padding: 6px 12px;
 font-size: 13px 
 }
 }
+.section-title {
+    font-size: 20px;
+    margin: 24px 0 16px;
+    color: #030303;
+}
+.footer {
+    text-align: center;
+    padding: 20px;
+    background: #f9f9f9;
+    margin-top: 40px;
+    color: #606060;
+}
+.social-icons a {
+    margin: 0 10px;
+}
+.social-icons img {
+    width: 24px;
+    height: 24px;
+}
